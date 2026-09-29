@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+requests
+databricks-sdk
+databricks-openai>=0.13.0
+openai-agents>=0.4.1

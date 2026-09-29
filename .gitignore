@@ -1,0 +1,22 @@
+# secrets — never commit
+.env
+.env.*
+*.env
+secrets*.json
+*.pem
+*.key
+.databrickscfg
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# os / editor
+.DS_Store
+.idea/
+.vscode/
